@@ -2,7 +2,7 @@
 
 > SSIM (Structural Similarity Index Measure) Implementations for PyTorch and TensorFlow
 
-#### PyTorch SSIM library by [VainF](https://github.com/VainF/pytorch-msssim)
+#### PyTorch SSIM and MS-SSIM libraries by [VainF](https://github.com/VainF/pytorch-msssim)
 
 * Google Colab [source code](/PyTorch_SSIM_and_MSSSIM_Library_Examples.ipynb)
 * Optimization example
